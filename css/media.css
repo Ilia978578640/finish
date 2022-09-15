@@ -1,0 +1,315 @@
+@media (max-width:376px) {
+    .container {
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+
+    .wrap {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .burgers {
+        position: relative;
+
+    }
+
+    .mega_link_box {
+        position: absolute;
+        transform: translateX(-30%);
+
+
+
+    }
+
+    .burger {
+        display: none;
+    }
+
+    .itemup {
+        flex-direction: column;
+    }
+
+    .card-box {
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .item {
+        width: 100%;
+    }
+
+
+
+    .leftman {
+        display: none;
+    }
+
+    .up {
+        min-height: 363px;
+        align-items: center;
+    }
+
+    .texth1 {
+        transform: translateY(50%);
+    }
+
+    .hero__title--small {
+        font-size: 28px;
+
+    }
+
+
+
+
+    .footer11 {
+        flex-direction: column;
+    }
+
+    .footer22 {
+        flex-direction: column;
+
+    }
+
+    .item_down1_1 {
+        transform: translateY(15%);
+    }
+
+    .item_down1_2 {
+        transform: translateY(-25%);
+    }
+
+    .footer3 {
+
+        flex-direction: column-reverse;
+
+
+    }
+
+    .brand {
+        display: flex;
+    }
+
+    .nono {
+        display: none;
+    }
+
+    .new11 a {
+        display: block;
+    }
+
+    .new {
+        flex-direction: row;
+    }
+
+    .center {
+        height: 565px;
+        max-width: 374px;
+    }
+
+    .new11 {
+        display: flex;
+        flex-wrap: wrap;
+        transform: translatey(54%);
+    }
+
+    .new2 {
+        margin: 0 auto;
+
+    }
+
+    .new1 {
+        display: flex;
+        margin: 0 auto;
+    }
+
+    .nono {
+        display: none;
+    }
+
+    .devw img {
+
+        max-width: 294px;
+        height: 565px;
+
+    }
+
+    .collection1 {
+        margin: 0 auto;
+        padding: 0 0 0 0;
+
+    }
+
+    .collection {
+        transform: translatey(24%);
+    }
+
+    .regist {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .join {
+        transform: translatex(54%)
+    }
+
+    .texty {
+        text-align: center;
+
+    }
+
+    .cardd {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .textinputdawn {
+        margin-bottom: 96px;
+    }
+
+    .leftcard {
+        max-width: 356px;
+    }
+
+    .leftcard img {
+        max-width: 130px;
+        height: 198px;
+    }
+
+    .leftup {
+        align-items: center;
+
+
+    }
+
+    .leftdawn {
+        align-items: center;
+    }
+
+    .PROCEED {
+        max-width: 170px;
+        padding: 0 0 0 0;
+    }
+
+    .cle {
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 14px;
+
+
+        text-align: center;
+
+        color: #575757;
+    }
+
+    .clear {
+        padding: 9px 17px;
+    }
+
+    .pross {
+        text-align: center;
+        padding: 15px 25px 15px 25px;
+    }
+}
+
+
+
+@media (min-width:377px) and (max-width:832px) {
+    .card-box {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+
+
+    .leftman {
+        width: 50%;
+        text-align: right;
+    }
+
+    .leftman img {
+        transform: translateX(-24%);
+    }
+
+    .texth1 {
+        width: 50%;
+    }
+
+    .items {
+        box-sizing: border-box;
+        min-width: 734px;
+    }
+
+    .itema img {
+        width: 95%;
+    }
+
+    .item {
+        min-width: 45%;
+    }
+
+    .footer11 {
+        flex-direction: column;
+    }
+
+    .footer22 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer3 {
+        flex-direction: column-reverse;
+
+    }
+
+    .item_down1_1 {
+        transform: translateY(15%);
+    }
+
+    .item_down1_2 {
+        transform: translateY(-25%);
+    }
+
+    .brand {
+        display: flex;
+    }
+
+    .center {
+        height: 565px;
+        max-width: 767px;
+    }
+
+    .new11 {
+        justify-content: space-between;
+    }
+
+    .nono {
+        display: none;
+    }
+
+    .devw img {
+
+        max-width: 466px;
+        height: 565px;
+
+        transform: translatex(25%);
+    }
+
+    .cardd {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .textinputdawn {
+        margin-bottom: 96px;
+    }
+
+    .rightcard {
+        display: flex;
+        justify-content: space-between;
+    }
+}
